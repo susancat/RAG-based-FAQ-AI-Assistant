@@ -1,0 +1,143 @@
+Question,Answer
+What is Mindful Ocean Metaverse?,"Mindful Ocean Metaverse is a community art project with a mission to save our ocean. We use blockchain, AI, and AR technology to empower anyone to take part in ocean conservation by making art. Our NFT art creation events nurture mindfulness and promote creativity, enabling anyone to easily create NFT artworks that simulate marine life in a co-created virtual space - the Mindful Ocean Metaverse. "
+How can we save our ocean by making art?,"We believe art-making can cultivate mindfulness, empathy, and creativity, which can improve our well-being, empower us to make better life-changing decisions, and facilitate the development of innovative solutions for ocean conservation. Our community art project aims at nurturing peoples' empathy towards marine life, and raising funds to carry out urgent actions that can save our ocean. "
+What is United Nations' Sustainable Development Goals?,"The United Nations' Sustainable Development Goals (SDGs) are a set of 17 global goals designed to address various social, economic, and environmental challenges facing the world. The SDGs were adopted by all United Nations Member States in September 2015 and aim to be achieved by the year 2030. Mindful Ocean Metaverse aims at building an active community to support UNSDG #14 - Life Below Water."
+What is UNSDG #14 Life Below Water?,"""Life Below Water"" is one of the 17 Sustainable Development Goals established by the United Nations to address environmental challenges and promote sustainable practices related to the world's oceans, seas, and marine resources. This goal emphasizes the importance of conserving and sustainably using marine ecosystems and resources for the benefit of present and future generations."
+Why should I care about the ocean?,"Caring about the ocean is essential because it sustains life on Earth. The ocean provides oxygen, regulates climate, and supports diverse marine species. It is a crucial source of food, jobs, and economic activities for millions. Preserving the ocean ensures a sustainable future, protects coastal communities from natural disasters, and promotes biodiversity. Our well-being and the planet's health depend on a thriving ocean."
+What are the 3 core social missions of Mindful Ocean Metaverse?,"Our first social mission is to encourage more people to make art. We hope more people can value art-making and its benefits to mindfulness. Our second social mission is to explore the use of Web3 for social changes. We believe Web3 is not just about profits. The true value of Web3 is to empower social changes. Our third social mission is to support conservationists by cultivating empathy. We believe that through our art-making events and AR Metaverse, people can rethink and rebuild their relationships with marine life."
+How can I participate as an artist?,"As an artist, you can take part in our NFT art creation events to raise funds for ocean conservation scientists and organizations to protect our ocean."
+How can I participate as a collector?,"As a collector, you can collect the NFT arts in our community art events. Proceeds generated will be donated to ocean conservation scientists and organizations."
+How can I participate as a scientist?,"As a scientist, you can participate as the beneficiaries of our community art events. Proceeds of each community art event can be dedicated to a partnered scientist's project. Also, partnered scientists can also benefit from the educational social content we create to raise awareness of their conservation projects."
+How can I participate as an ocean conservation organization?,"We are looking for ocean conservation organizations to co-create educational content for ocean conservation, co-organize fund raising events, and collaborate in cross-promotion through our project."
+How can I participate as an administrator of an educational institution?,"If you are an administrator of an educational institution, you can co-organize fund raising events with us to support ocean conservation in your institution. For example, we can collaborate with scientists and artisits to conduct virtual outreach with your students. Students can learn about the science of ocean conservation, explore how blockahin, AI, and AR technology can save marine life, and participate in art-making and fund-raising to solve a real-world problem. Part of the proceeds in an event can go to a reserve for your institution to carry out other sustainability education."
+How can I participate as a parent?,"Our project is a great introduction for children to learn about how blockchain, AI, and AR technology can help us solve real-world problems. Parents can support their children to take part in our community art events that nurture mindfulness, empathy, and creativity. Moreover, your children's creative artworks can be digitized and preserved with the use of blockchain technology."
+Is the blockchain technology we use environmental-friendly?,"Polygon (formerly Matic) is more environmentally friendly than traditional blockchains due to its use of the proof-of-stake (PoS) consensus mechanism. Unlike energy-intensive proof-of-work (PoW) systems, PoS doesn't rely on resource-intensive mining. Validators are chosen based on the tokens they hold and ""stake"" as collateral, eliminating the need for energy-consuming computations. This significantly reduces Polygon's energy consumption and carbon footprint, making it a sustainable and eco-friendly blockchain network."
+What is NFT?,"NFT stands for Non-Fungible Token, a unique digital asset stored on a blockchain. Unlike cryptocurrencies like Bitcoin, NFTs are indivisible and cannot be exchanged on a one-to-one basis. Each NFT represents a specific item, artwork, music, video, or any digital content with proof of ownership and authenticity. NFTs use smart contracts to enable creators to monetize and sell their digital creations securely. Their uniqueness, scarcity, and ability to verify ownership make NFTs valuable for collectors and artists in the digital world."
+How can blockchain technology facilitate ocean conservation?,"Blockchain technology can aid ocean conservation by enabling transparent and immutable data sharing. Decentralized blockchain platforms can record ocean-related data like water quality, marine biodiversity, and fishing practices securely and in real-time. This verifiable information allows stakeholders to monitor and address issues like illegal fishing, pollution, and climate change's impact on marine ecosystems. Additionally, blockchain-powered smart contracts can incentivize sustainable practices, encouraging responsible fishing and promoting eco-friendly tourism. Through transparent data and efficient transactions, blockchain can enhance collaboration among governments, NGOs, and communities, leading to effective ocean conservation efforts."
+Why blockchain technology is used in this project?,We use blockchain as a means to raise funds for ocean conservation. It empowers anyone to turn their creative effort in our art-making events into actions that can contribute to protecting marine life.
+How can AI technology facilitate ocean conservation?,"AI technology can enhance ocean conservation by analyzing vast amounts of ocean data quickly and accurately. AI algorithms can process data from satellite imagery, sensors, and underwater drones to monitor marine ecosystems, track species, and detect illegal activities like poaching or fishing in restricted areas. Machine learning models can predict patterns in ocean behavior, such as weather events and climate change impacts. This knowledge empowers conservationists and policymakers to make informed decisions and implement targeted measures to protect marine life, combat pollution, and promote sustainable practices, thus contributing to the preservation and health of our oceans."
+Why AI technology is used in this project?,"We use AI to solve 3 problems. First, we use AI to allow users to interact with the simulated marine life in our app through their hand gestures. Second, AI enables us to determine the uniqueness of user-submitted artworks in our art-making events. We use AI to conduct image clustering to compute the Authentic Scarcity of an image among other images in an art-making event. Third, we use AI to facilitate content moderation to reduce the amount of inappropriate user-submitted content."
+How can AR technology facilitate ocean conservation?,"AR (Augmented Reality) technology can facilitate ocean conservation by providing immersive and educational experiences for the public. AR apps can allow users to interact with virtual marine life and ecosystems, raising awareness about the importance of conservation. It enables real-time data visualization and overlays on physical surroundings, showcasing ocean health and pollution levels. AR can also aid researchers and conservationists in the field by providing instant access to data, maps, and marine life identification, making monitoring and data collection more efficient. By engaging people and professionals alike, AR technology can foster greater understanding and support for ocean conservation efforts."
+Why AR technology is used in this project?,We use AR to provide an immersive experience for users to cultivate their empathy toward marine life. Our AR technology allows multiple users to interact with the simulated marine life authentically using their hands. 
+What is Authentic Scarcity?,Authentic Scarcity is a score that represents the rarity of an artwork. It is computed with an AI algorithm that evaluates an artwork's uniqueness relative to all the other artworks in a community art event. 
+What is a Cluster?,"For each artwork, our algorithm will categorize it into a Cluster based on the artwork's visual features. In other words, all artworks in a Cluster look similar."
+What is a Supercluster?,"For each identified Cluster, our algorithm will further compare its overall visual characteristics with all the other Clusters. Clusters that look similar will be grouped into a Supercluster."
+What is a Mint Pass?,"A Mint Pass refers to a digital pass or ticket issued using blockchain technology. It verifies the authenticity and ownership of digital assets like NFTs (Non-Fungible Tokens), granting access to exclusive events, content, or experiences. Mint Passes ensure secure and traceable access to unique digital items. A Mint Pass in our project is associated with a user-submitted artwork. Owning a Mint Pass allows you to redeem a Mindful Ocean NFT. "
+What is a Mindful Ocean NFT?,"A Mindful Ocean NFT is a digital asset that has the following utilities. First, you can use it in the Metaverse Aquarium of our mobile app, which allows you to interact with the marine animal embedded in the NFT. Second, you can earn rewards from our partners via our airdrop events. Third, you can use the NFT as a ticket to attend to real-life ocean conservation event. Fourth, owners of the Mindful Ocean NFT can vote in our future events, making decisions such as to which ocean conservation organizations our funds will donate."
+How much do I need to pay to get a Mint Pass?,"To support the United Nations' Sustainable Development Goal No. 14 - Life Below Water, 14 MATIC will be charged as the minting fee. You also need to pay a very small gas fee to complete the transaction. That is about USD $11 for the minting fee plus 1 cent for the gas fee at July 17, 2023. You can check the latest MATIC price and gas fee using the links below.
+
+Latest MATIC price:
+https://www.coindesk.com/price/polygon
+
+Latest estimated gas fee:
+https://tokentool.bitbond.com/gasprice/polygon"
+How much do I need to pay to redeem a Mindful Ocean NFT using my Mint Pass?,"Minting fee is waived, but you need to pay a small gas fee to complete the transaction. That is about less than 1 cent in USD. You can check the latest estimated gas fee here https://tokentool.bitbond.com/gasprice/polygon"
+Where will the minting fee go to?,"The minting fee will go to our Mindful Ocean Fund, which will be used to support ocean conservation after deducting our operating expenses.
+
+We also work with co-organizers to recruit artists to contribute in our events, in which part of the minting fee will go to the co-organizers. For example, a school may support our events by inviting their students to participate as artists. Part of the minting fee paid by the students will be donated to the school."
+"My organization wants to co-organize auctions for the Mindful Ocean Metaverse project, where will the proceeds of the auctions go to?","When we work with a co-organizer to conduct Mint Pass or Mindful Ocean NFT auctions, the proceeds will be shared among the co-organizer, the artists, and the Mindful Ocean Fund."
+Can I donate more during the minting process?,"Yes, you can donate more than the Mint Fee in the minting process."
+Where will the revenue from in-app purchase (IAP) goes to?,70% will go to the Mindful Ocean Fund. 30% will go to the mobile app platforms.
+What percentage of the net revenue will be donated to the ocean conservation organization in each event?,"Each event may vary, but we will announce the percentage before we launch each event. In general, we target to allocate 50% of the net revenue for donations."
+How do we calculate net revenue?,Net revenue = gross revenue - cost of goods sold - operating expenses
+What are included as the cost of goods sold?,Mobile app platform fee and NFT marketplace platform fee.
+What are included as the gross revenue?,"NFT minting fee, direct NFT sales, royalties from secondary market sales, IAPs, and ad revenues."
+What are included as the operating expenses?,"Design, development, quality assurance, and server maintenance of our mobile apps and websites. Publishing costs which include marketing, community management, and customer support. Other costs including license fee and tax."
+What are excluded as the operating expenses?,Core team's labour costs.
+When will a donee receive the donation?,"Within 3 months after the completion of an event, the Mindful Ocean Fund will donate to selected charities after recouping its expenses."
+How will the donee receive the donation?,The donation will be transferred to the donee's crypto wallet.
+How will we govern the donation?,"A Decentralized Autonomous Organization (DAO) will be used to govern the donation in the future. For example, owners of our NFTs can vote for the organization to receive the donation in each event."
+How will the reserve in the Mindful Ocean Fund be used?,"To fund future Metaverse enhancements
+To subsidize students in submitting artwork
+Organize IRL events
+Can be further donated to NGOs"
+Can I receive a tax receipt?,"For auctions that we co-organized with charitable organizations, the organizations can issue tax deductible receipts to the donars, based on the policies and laws that govern their operations. "
+What happens when a Mint Pass or a Mindful Ocean NFT is traded during secondary market sales?,"NFT marketplaces like OpenSea will collect a fee, which is about 2.5% of the trading price. For marketplaces that support creator royalties, we may request a percentage of the trading price as a royalty fee."
+How will our co-organizers receive royalties?,The co-organizer can receive the royalties through a crypto transaction after the event.
+What rewards can I receive based on the Authentic Scarcity score?,We will partner with other green organizations to provide the rewards
+How can I get a MIndful Ocean Mint Pass?,"You can get a Mindful Ocean Mint Pass as an artist or a collector. As an artist, you can create an artwork in our Mindful Ocean Metaverse app and convert your artwork into a Mint Pass through our website. As a collector, you can buy a Mint Pass from an artist, NFT marketplaces like OpenSea, or through auctions."
+How can I get a Mindful Ocean NFT?,You can redeem a Mindful Ocean NFT if you have a Mint Pass.
+What can I do in the mobile app?,"You can participate in our artwork submission events. You can also unlock the Metaverse feature, use it to collect Mindful Ocean NFT, and interact with the NFT together with your friends."
+What can I do in the Hatchery?,You can use the painting tools to design an NFT and submit it to our artwork submission events.
+Will you support Android devices?,Yes! We will also support Android devices in the future.
+What happens to the artwork when I submit it to the event in the mobile app?,"Once you submitted your artworks, the artwork in the mobile app will be transferred to our website. You can go to our website to convert them into Mint Pass."
+Can I create multiple Mint Passess using one artwork?,"No, you can only create one Mint Pass using one artwork."
+How can I put my NFT into the mobile app?,"If you have a Mindful Ocean NFT, once you connect your crypto wallet in our website, you can see your NFT in your unlocked Metaverse in our app."
+What can I get from the in-app purchase of the app?,You can unlock the Metaverse feature in our app.
+How can I interact with the fish in the Metaverse?,"The Metaverse supports gesture recognitions, which put different types of objects in the AR environment that the NFT will interact with. Currently, we support three different gestures.
+- A finger heart shape will place a heart object at your location, which will attract a marine animal to come close to you. 
+- An OK hand shape will place a circular object at your location, which will instruct a marine animal to swim around you.
+- A swoosh hand shape will place a top at your location. A fish will perform a trick around you."
+Can my friends see my NFT?,"In your app, there is a QR code in the Metaverse interface. Your friends can scan this QR code to join you in the same session, so that you and your friends can interact with your NFTs together in multiplayer mode. If your friends are playing the app remotely, you can share your spaceID with them. This way, they can input the Space ID to join your session."
+What fields are included in the metadata of the Mindful Ocean NFT?,"Artwork Id
+Type
+Image URL
+Extra Info
+Event Id
+Artist's Message
+Authentic Scarcity
+Scarcity Rank
+Cluster Id
+Cluster Size
+Supercluster Id
+Supercluster Size"
+What fields are included in the metadata of the Mint Pass,"Artwork Id
+Type
+Image URL
+Event Id
+Artist's Message"
+,
+What can I do in the Hatchery Aquarium?,"In the Hatchery Aquarium, you can paint a texture for a 3D fish or marine animal. You can preview how your creation looks like in 3D. When there is an NFT creation event, you can submit your artwork to our website in the Hatchery. You can also launch the AR mode to see all the marine animals in the Hatchery in a virtual world."
+What can I do in the Metaverse Aquarium?,"In the Metaverse Aquarium, you can interact with the fish or marine animals in a virtual world. You and your friends can join in the same Metaverse session, so that you can play with the fish and marine animals in the Metaverse together. You can also use different gestures to instruct the marine animals to do different things."
+How can I submit my artwork to an event?,"When an event has started, you can do the following to submit an artwork:
+1. Enter the Hatchery Aquarium.
+2. Expand the marine animals list menu (or tap 'Add Fish' to create a new artwork).
+3. Select a marine animal from the 'current' tab in the list.
+4. Tap the Preview button.
+5. Tap the Submit Artwork button.
+6. Read and submit the required disclaimers.
+7. Tap Confirm to submit your artwork."
+How many artworks can I submit in an event?,You can submit as many artworks as you like in an event.
+How long do I need to wait before submitting an artwork?,"After each artwork submission, there will be a 4-hour wait time before you can submit another artwork."
+What can I do in the Metaverse?,You can interact with your NFT collection with hand gestures in AR mode.
+Why is there a 4-hour wait time to submit new artwork after I submitted one?,The 4-hour wait time is designed to improve the overall quality of the submitted artworks. We want to encourage each artist to spend adequate time to craft the details of each artwork.
+How can I edit my artwork in the Hatchery?,"You can do the following to edit your artwork:
+1. Expand the marine animals list menu.
+2. Select the artwork you want to edit in 'current' tab.
+3. Then, you can edit the fish."
+How can I start drawing in the Hatchery?,"You can do the following:
+1. Tap Add Fish in the Hatchery.
+2. Use the painting tools to draw on a template.
+3. Tap Preview to see how your artwork looks like in 3D.
+4. When you go back the Aquarium, your artwork will turn into a marine animal. "
+How do I learn more about an event?,You can learn more about each event in our website.
+What is an event in the mobile app?,"Each event is a community art event that aims at raising funds for ocean conservation by making NFT arts. During the event, users of our mobile app can design their artworks in the Hatchery Aquarium, and then submit their artworks to our website."
+Why my fish or marine animal is gone after I submitted it as an artwork in an event?,Each artwork can be used once for the artwork submission.
+Where can I see my fish or marine animal again after I submitted it as an artwork in an event?,You can find your marine animals in our website.
+How many NFT can I create using an artwork?,You can create one NFT using one artwork.
+How can I launch the metaverse?,"You can go the Metaverse Aquarium to select a fish, and then tap the Metaverse button."
+How can I interact with the fish or marine animal in the metaverse?,You can use different hand gestures to interact with the marine animals.
+Why do I need to log in with my Apple Id?,"In our iOS app, Apple Id is used for authentication."
+How can I connect with other users in the metaverse?,"You can do the following:
+1. Tap the Connect button
+2. Tap the show QR code button, OR share your Space ID with your friends
+Then, your friend can do the following:
+1. Tap the Connect button
+2. Tap the can QR code button OR input your Space ID"
+How can I use fish in the metaverse?,You can purchase the IAPs that unlock this feature.
+How many fish can I add in the metaverse?,"The following are the different packages:
+- 5 fishes for Band 1 plan;
+- 10 fishes for Band 2 plan;
+- 20 fishes for Band 3 plan, AND
+- Unlock the unlimited fish slots switching feature with the Swap Fish accessory plan."
+How can I replace a fish in the metaverse?,"You can purchase the Swap Fish in-app purchase (IAP), then choose an unlocked fish from the fish list in the Metaverse Aquarium. Tap 'Swap Fish' to access the swap fish interface, and select a previously locked fish below to swap with the current unlocked fish."
+How many different gestures are supported when I interact with my fish or marine animal?,"Currently, we support 3 different gestures, including a ""Finger Heart"" gesture, a ""Hula Hoop"" gesture, and a ""Swoosh"" gesture."
+"What does the ""Finger Heart"" gesture do?","The ""Finger Heart"" gesture will place a 3D heart object in the Metaverse, then a marine animal will swim towards the heart and pop it."
+"What does the ""Hula Hoop"" gesture do?","The 'Hula Hoop' gesture will deploy a 3D ring object in the Metaverse, and a marine animal will swim in a circular motion, moving up and down around the ring."
+"What does the ""Swoosh"" gesture do?","The ""Swoosh"" gesture will place a 3D top spinning object in the Metaverse, then a marine animal will swim towards the top and swim."
+What is Swap Fish?,"Swapping fish allows you to rearrange the positions of unlockable fish. For example, if you have purchased Band 1 plan, unlocking five fish, but you own seven fish, and you don't want to spend an additional $2.49 to upgrade to Band 2, you can simply spend $0.99 to unlock this additional plan. Afterward, you can select any of your first five fish, use the 'Swap Fish' feature to unlock the sixth or seventh fish for use (then the previously selected fish was locked instead). While this means you cannot unlock all fish simultaneously and need to swap frequently, it is a more economical solution. Similarly, when you have more than 20 fish, you can only use additional fish through the 'Swap Fish' feature."
+Why do I need to connect my crypto wallet and sign in with Apple ID?,"By connecting with your crypto wallet, you can convert your artwork into a Mindful Ocean Mint Pass in our website. We also need to retrieve the artworks you submitted in our mobile app associated with your Apple ID. The Mint Pass can be used to redeem a Mindful Ocean NFT when it is ready. "
+How can I get a Mindful Ocean Mint Pass?,"Before you can create a Mindful Ocean Mint Pass, you need to submit an artwork in our mobile app. Then, you can go to the Mintpass page on our website, login with your Apple ID, connect your wallet, and follow the instruction to get the Mint Pass."
+How can I redeem a Mindful Ocean NFT?,"Before you can redeem a Mindful Ocean NFT, you need to get a Mindful Ocean Mint Pass. During a Mindful Ocean Art Contest, redemption of Mindful Ocean NFTs will only open when we have completed the evaluation of each artworks uniqueness. The evaluation will use an offline AI algorithm to compute an Authentic Scarcity score for each artwork in a contest. In each art contest, we will make an announcement when our redemption page. Then you can go to the redemption page to redeem a Mindful Ocean NFT with our Mint Pass."
+What happens to the Mint Pass after I redeemed my Mindful Ocean NFT?,The Mint Pass will be burned so that it cannot be used to redeem another NFT. 
+How does the Mindful Ocean Metaverse app relate to the Mindful Ocean Coloring app?,"We obtain a license to use the intellectual property and source code of an app called Mindful Ocean Coloring, which is owned by Dalton Learning Lab Limited, to develop the Mindful Ocean Metaverse project."
