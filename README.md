@@ -40,8 +40,8 @@ faq_rag_demo/
 
 This demo is based on FAQ content from **Mindful Ocean Metaverse**, an interactive ocean conservation app (web3/AR) I managed as a Product Manager.  
 https://www.mindful-ocean.org/  
-The assistant is designed to help users understand app mechanics, point systems, and user journeys using intelligent retrieval and LLM response.
-It showcases how PMs can use **RAG (Retrieval-Augmented Generation)** techniques to create helpful, AI-powered support tools grounded in real-world product data.
+The assistant is designed to help users understand app mechanics and user journeys using intelligent retrieval and LLM response.
+It showcases how PMs can use **RAG** techniques to create helpful, AI-powered support tools grounded in real-world product data.
 
 ## 📎 To run
 
